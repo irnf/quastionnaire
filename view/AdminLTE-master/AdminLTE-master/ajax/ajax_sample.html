@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<!--日本語表示-->
+<html lang="ja">
+<head>
+    <!--文字コード-->
+    <meta charset="UTF-8">
+    <!--ページのタイトル-->
+    <title>Document</title>
+</head>
+<body>
+    <!--jQueryのインストール-->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <!--入力フォームの作成-->
+    <form id="form_1" method="post" accept-charset="utf-8" return false>
+        <!--名前入力欄-->
+        <p>名前<input type="text" name="userid" id="userid"></p>
+        <!--パスワード入力欄-->
+        <p>パスワード<input type="text" name="password" id="password"></p>
+    </form>
+    <!--"ajax"ボタンを作る-->
+    <button id="ajax">ajax</button>
+    <!--このdivタグに特に意味はない-->
+    <div class="result"></div>
+    <!--ajaxボタンに関する動作-->
+    <script type="text/javascript">
+        $(function(){
+            //ajax button click
+            $('#ajax')
+                .on(
+                    //イベント
+                    'click'
+                    //実処理
+                    ,function(){
+                        
+                        //クリック時のアクション
+                        $.ajax({
+                            //非同期接続するURL
+                            url:'./ajax_sample.php',
+                            //POSTをGETするか
+                            type:'POST',
+                            //POST値
+                            data:{
+                                //ユーザーID
+                                'userid':$('#userid').val(),
+                                //パスワード
+                                'password':$('#password').val()
+                            }
+            })
+            .done(
+                ( data ) => { 
+                //-----Ajaxリクエストが成功した時発動-----//    
+                
+                //直前の$.ajaxで返された値( data )を返す
+                $('.result')
+                    .html(data);
+                    
+                //dataを記憶する
+                console.log(data);        
+                }
+            )
+            //-----Ajaxリクエストが失敗した時発動-----//
+            .fail(
+                (data) => {//失敗したとき
+                    $('.result').html(data);
+                    console.log(data);
+                }
+            )
+            //Ajaxリクエストが成功・失敗どちらでも発動
+            .always(
+                (data) => { //失敗成功問わず
+                }
+            );
+            });
+        });
+    </script>
+</body>
+
+</html>

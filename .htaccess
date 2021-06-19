@@ -1,0 +1,10 @@
+#RewriteEngine on
+#RewriteEngine /questionnaire
+#以下拡張子ファイルは書き換え対象から除外
+#ico,jpg,css,js,gif,png
+#RewriteCond %{REQUEST_URI} !\.(ico|jpg|css|map|js|gif|png)$
+#実態ファイルを除外
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#置き換えルール
+#RewriteRule (.*)$ index.php?action=$1 [L]

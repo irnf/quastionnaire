@@ -1,0 +1,301 @@
+[2021/04/06 11:52:26.4735 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 11:53:07.4728 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 11:59:09.2431 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 12:01:48.6350 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 12:04:42.3770 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 12:04:42.3789 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 41 ) ] [
+    {
+        "result_ac": "1",
+        "foot": "2",
+        "softball": "1",
+        "softtennis": null,
+        "bad": null,
+        "bas": null,
+        "val": null,
+        "tab": "2",
+        "run": "1"
+    },
+    {
+        "result_ac": "2",
+        "foot": "3",
+        "softball": "2",
+        "softtennis": "2",
+        "bad": "2",
+        "bas": "1",
+        "val": "1",
+        "tab": "1",
+        "run": null
+    },
+    {
+        "result_ac": "3",
+        "foot": "1",
+        "softball": "1",
+        "softtennis": "1",
+        "bad": "3",
+        "bas": "2",
+        "val": "4",
+        "tab": "2",
+        "run": "1"
+    },
+    {
+        "result_ac": "4",
+        "foot": "1",
+        "softball": null,
+        "softtennis": "1",
+        "bad": null,
+        "bas": null,
+        "val": null,
+        "tab": null,
+        "run": "1"
+    },
+    {
+        "result_ac": "5",
+        "foot": "1",
+        "softball": "4",
+        "softtennis": "4",
+        "bad": "2",
+        "bas": null,
+        "val": "2",
+        "tab": null,
+        "run": "2"
+    }
+]
+[2021/04/06 12:31:56.3661 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 12:31:56.3689 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 41 ) ] [
+    {
+        "result_ac": "1",
+        "foot": "2",
+        "softball": "1",
+        "softtennis": null,
+        "bad": null,
+        "bas": null,
+        "val": null,
+        "tab": "2",
+        "run": "1"
+    },
+    {
+        "result_ac": "2",
+        "foot": "3",
+        "softball": "2",
+        "softtennis": "2",
+        "bad": "2",
+        "bas": "1",
+        "val": "1",
+        "tab": "1",
+        "run": null
+    },
+    {
+        "result_ac": "3",
+        "foot": "1",
+        "softball": "1",
+        "softtennis": "1",
+        "bad": "3",
+        "bas": "2",
+        "val": "4",
+        "tab": "2",
+        "run": "1"
+    },
+    {
+        "result_ac": "4",
+        "foot": "1",
+        "softball": null,
+        "softtennis": "1",
+        "bad": null,
+        "bas": null,
+        "val": null,
+        "tab": null,
+        "run": "1"
+    },
+    {
+        "result_ac": "5",
+        "foot": "1",
+        "softball": "4",
+        "softtennis": "4",
+        "bad": "2",
+        "bas": null,
+        "val": "2",
+        "tab": null,
+        "run": "2"
+    }
+]
+[2021/04/06 12:31:57.2646 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 12:31:57.2656 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 41 ) ] [
+    {
+        "result_ac": "1",
+        "foot": "2",
+        "softball": "1",
+        "softtennis": null,
+        "bad": null,
+        "bas": null,
+        "val": null,
+        "tab": "2",
+        "run": "1"
+    },
+    {
+        "result_ac": "2",
+        "foot": "3",
+        "softball": "2",
+        "softtennis": "2",
+        "bad": "2",
+        "bas": "1",
+        "val": "1",
+        "tab": "1",
+        "run": null
+    },
+    {
+        "result_ac": "3",
+        "foot": "1",
+        "softball": "1",
+        "softtennis": "1",
+        "bad": "3",
+        "bas": "2",
+        "val": "4",
+        "tab": "2",
+        "run": "1"
+    },
+    {
+        "result_ac": "4",
+        "foot": "1",
+        "softball": null,
+        "softtennis": "1",
+        "bad": null,
+        "bas": null,
+        "val": null,
+        "tab": null,
+        "run": "1"
+    },
+    {
+        "result_ac": "5",
+        "foot": "1",
+        "softball": "4",
+        "softtennis": "4",
+        "bad": "2",
+        "bas": null,
+        "val": "2",
+        "tab": null,
+        "run": "2"
+    }
+]
+[2021/04/06 12:39:57.3968 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 12:39:57.3984 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 41 ) ] [
+    {
+        "result_ac": "1",
+        "foot": "2",
+        "softball": "1",
+        "softtennis": null,
+        "bad": null,
+        "bas": null,
+        "val": null,
+        "tab": "2",
+        "run": "1"
+    },
+    {
+        "result_ac": "2",
+        "foot": "3",
+        "softball": "2",
+        "softtennis": "2",
+        "bad": "2",
+        "bas": "1",
+        "val": "1",
+        "tab": "1",
+        "run": null
+    },
+    {
+        "result_ac": "3",
+        "foot": "1",
+        "softball": "1",
+        "softtennis": "1",
+        "bad": "3",
+        "bas": "2",
+        "val": "4",
+        "tab": "2",
+        "run": "1"
+    },
+    {
+        "result_ac": "4",
+        "foot": "1",
+        "softball": null,
+        "softtennis": "1",
+        "bad": null,
+        "bas": null,
+        "val": null,
+        "tab": null,
+        "run": "1"
+    },
+    {
+        "result_ac": "5",
+        "foot": "1",
+        "softball": "4",
+        "softtennis": "4",
+        "bad": "2",
+        "bas": null,
+        "val": "2",
+        "tab": null,
+        "run": "2"
+    }
+]
+[2021/04/06 15:44:44.6689 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 16:10:04.6100 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 16:11:29.4211 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 16:11:30.2410 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 16:11:30.6626 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 16:11:30.9226 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 16:13:58.9246 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 16:14:30.8501 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 16:14:32.3193 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 16:14:32.4900 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 16:14:32.9383 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 16:14:47.152 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 16:14:47.7262 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 16:14:47.8683 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 16:14:48.2019 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 16:14:48.4418 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 16:14:48.6518 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 16:14:48.8032 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 16:15:18.6288 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 18:41:33.6516 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 19:41:11.6289 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 19:42:12.2601 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 19:44:06.4982 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 19:44:07.7301 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 19:44:49.4905 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 19:45:39.2228 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 19:51:16.4434 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 19:54:12.5677 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 19:54:23.9616 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 19:56:23.2722 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 19:58:24.8751 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 19:58:47.6014 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:00:20.2854 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:02:41.2274 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:03:51.226 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:03:51.292 / ::1 ( C:\xampp\htdocs\questionnaire\view\graph_view.php / 2 ) ] 1
+[2021/04/06 20:07:30.5472 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:07:30.5532 / ::1 ( C:\xampp\htdocs\questionnaire\view\graph_view.php / 1 ) ] 1
+[2021/04/06 20:07:48.8703 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:09:09.2264 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:10:18.2030 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:10:31.8407 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:10:49.7590 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:11:06.3094 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:11:21.2178 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:16:21.3812 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:18:04.3878 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:18:57.5769 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:19:23.6537 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:19:44.4969 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:21:51.2168 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:22:05.640 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:22:20.9382 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:32:50.6955 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:34:06.3597 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:36:10.7830 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:38:08.8418 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:38:39.6666 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:44:38.3978 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:45:09.9477 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:47:09.207 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:48:30.1976 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:51:17.8952 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:52:41.5826 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/06 20:52:44.5999 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array

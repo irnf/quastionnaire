@@ -1,0 +1,174 @@
+[2021/04/02 11:11:19.9717 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] 1
+[2021/04/02 11:11:21.3223 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] 1
+[2021/04/02 11:12:34.242 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 11:14:16.7118 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 11:16:37.7186 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 11:16:38.4679 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 11:16:38.8523 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 11:16:39.49 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 11:16:39.2172 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 11:16:45.3406 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 11:19:28.3015 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 11:19:29.1591 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 11:21:28.2338 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 11:22:25.2347 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 11:22:26.984 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 11:23:42.5453 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 11:23:49.7177 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 11:30:07.5137 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 14:34:21.2930 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 14:34:31.3519 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 14:39:01.3577 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 14:46:56.6389 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 14:57:57.7147 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 14:57:58.4732 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 14:57:58.6400 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 14:57:58.8313 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 14:57:58.9860 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 14:57:59.1253 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT * FROM  sports_db.result_tbl
+[2021/04/02 15:03:27.4044 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT result_name ,  result_grade, result_course,result_ac FROM  sports_db.result_tbl
+[2021/04/02 15:37:15.5577 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT result_name ,  result_grade, result_course,result_ac FROM  sports_db.result_tbl
+[2021/04/02 15:37:58.8963 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT result_name ,  result_grade, result_course,result_ac FROM  sports_db.result_tbl
+[2021/04/02 15:44:03.4540 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT result_name ,  result_grade, result_course,result_ac FROM  sports_db.result_tbl
+[2021/04/02 16:04:51.9044 / ::1 ( C:\xampp\htdocs\questionnaire\model\part_model.php / 16 ) ] SELECT result_name ,  result_grade, result_course,result_ac FROM  sports_db.result_tbl
+[2021/04/02 16:13:29.4441 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 40 ) ] 1
+[2021/04/02 16:14:01.8111 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 40 ) ] Array
+(
+    [0] => Array
+        (
+            [result_name] => 剣 桃太郎
+            [result_grade] => 1
+            [result_course] => 4
+            [result_ac] => 5
+        )
+
+    [1] => Array
+        (
+            [result_name] => 富樫 源次
+            [result_grade] => 2
+            [result_course] => 3
+            [result_ac] => 2
+        )
+
+    [2] => Array
+        (
+            [result_name] => 虎丸 龍次
+            [result_grade] => 4
+            [result_course] => 4
+            [result_ac] => 3
+        )
+
+    [3] => Array
+        (
+            [result_name] => J
+            [result_grade] => 2
+            [result_course] => 4
+            [result_ac] => 4
+        )
+
+    [4] => Array
+        (
+            [result_name] => 松尾 鯛雄
+            [result_grade] => 2
+            [result_course] => 2
+            [result_ac] => 2
+        )
+
+    [5] => Array
+        (
+            [result_name] => 田沢 慎一郎
+            [result_grade] => 4
+            [result_course] => 2
+            [result_ac] => 5
+        )
+
+    [6] => Array
+        (
+            [result_name] => 極小路 秀麻呂
+            [result_grade] => 1
+            [result_course] => 2
+            [result_ac] => 2
+        )
+
+    [7] => Array
+        (
+            [result_name] => 椿山 清美
+            [result_grade] => 4
+            [result_course] => 1
+            [result_ac] => 1
+        )
+
+    [8] => Array
+        (
+            [result_name] => 赤石 剛次
+            [result_grade] => 3
+            [result_course] => 1
+            [result_ac] => 5
+        )
+
+    [9] => Array
+        (
+            [result_name] => 江戸川
+            [result_grade] => 1
+            [result_course] => 1
+            [result_ac] => 1
+        )
+
+    [10] => Array
+        (
+            [result_name] => 丸山
+            [result_grade] => 2
+            [result_course] => 4
+            [result_ac] => 3
+        )
+
+    [11] => Array
+        (
+            [result_name] => 鬼横綱
+            [result_grade] => 1
+            [result_course] => 1
+            [result_ac] => 3
+        )
+
+    [12] => Array
+        (
+            [result_name] => 大豪院 邪鬼
+            [result_grade] => 1
+            [result_course] => 1
+            [result_ac] => 5
+        )
+
+    [13] => Array
+        (
+            [result_name] => 影慶
+            [result_grade] => 1
+            [result_course] => 2
+            [result_ac] => 2
+        )
+
+    [14] => Array
+        (
+            [result_name] => 羅刹
+            [result_grade] => 4
+            [result_course] => 4
+            [result_ac] => 3
+        )
+
+    [15] => Array
+        (
+            [result_name] => 卍丸
+            [result_grade] => 2
+            [result_course] => 4
+            [result_ac] => 3
+        )
+
+    [16] => Array
+        (
+            [result_name] => センクウ
+            [result_grade] => 4
+            [result_course] => 1
+            [result_ac] => 5
+        )
+
+)
+

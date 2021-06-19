@@ -1,0 +1,808 @@
+[2021/04/05 11:17:32.1274 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 40 ) ] Array
+(
+    [0] => Array
+        (
+            [result_name] => 剣 桃太郎
+            [result_grade] => 1
+            [result_course] => 4
+            [result_ac] => 5
+        )
+
+    [1] => Array
+        (
+            [result_name] => 富樫 源次
+            [result_grade] => 2
+            [result_course] => 3
+            [result_ac] => 2
+        )
+
+    [2] => Array
+        (
+            [result_name] => 虎丸 龍次
+            [result_grade] => 4
+            [result_course] => 4
+            [result_ac] => 3
+        )
+
+    [3] => Array
+        (
+            [result_name] => J
+            [result_grade] => 2
+            [result_course] => 4
+            [result_ac] => 4
+        )
+
+    [4] => Array
+        (
+            [result_name] => 松尾 鯛雄
+            [result_grade] => 2
+            [result_course] => 2
+            [result_ac] => 2
+        )
+
+    [5] => Array
+        (
+            [result_name] => 田沢 慎一郎
+            [result_grade] => 4
+            [result_course] => 2
+            [result_ac] => 5
+        )
+
+    [6] => Array
+        (
+            [result_name] => 極小路 秀麻呂
+            [result_grade] => 1
+            [result_course] => 2
+            [result_ac] => 2
+        )
+
+    [7] => Array
+        (
+            [result_name] => 椿山 清美
+            [result_grade] => 4
+            [result_course] => 1
+            [result_ac] => 1
+        )
+
+    [8] => Array
+        (
+            [result_name] => 赤石 剛次
+            [result_grade] => 3
+            [result_course] => 1
+            [result_ac] => 5
+        )
+
+    [9] => Array
+        (
+            [result_name] => 江戸川
+            [result_grade] => 1
+            [result_course] => 1
+            [result_ac] => 1
+        )
+
+    [10] => Array
+        (
+            [result_name] => 丸山
+            [result_grade] => 2
+            [result_course] => 4
+            [result_ac] => 3
+        )
+
+    [11] => Array
+        (
+            [result_name] => 鬼横綱
+            [result_grade] => 1
+            [result_course] => 1
+            [result_ac] => 3
+        )
+
+    [12] => Array
+        (
+            [result_name] => 大豪院 邪鬼
+            [result_grade] => 1
+            [result_course] => 1
+            [result_ac] => 5
+        )
+
+    [13] => Array
+        (
+            [result_name] => 影慶
+            [result_grade] => 1
+            [result_course] => 2
+            [result_ac] => 2
+        )
+
+    [14] => Array
+        (
+            [result_name] => 羅刹
+            [result_grade] => 4
+            [result_course] => 4
+            [result_ac] => 3
+        )
+
+    [15] => Array
+        (
+            [result_name] => 卍丸
+            [result_grade] => 2
+            [result_course] => 4
+            [result_ac] => 3
+        )
+
+    [16] => Array
+        (
+            [result_name] => センクウ
+            [result_grade] => 4
+            [result_course] => 1
+            [result_ac] => 5
+        )
+
+)
+
+[2021/04/05 11:19:17.8530 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 40 ) ] Array
+(
+    [0] => Array
+        (
+            [result_name] => 剣 桃太郎
+            [result_grade] => 1
+            [result_course] => 4
+            [result_ac] => 5
+        )
+
+    [1] => Array
+        (
+            [result_name] => 富樫 源次
+            [result_grade] => 2
+            [result_course] => 3
+            [result_ac] => 2
+        )
+
+    [2] => Array
+        (
+            [result_name] => 虎丸 龍次
+            [result_grade] => 4
+            [result_course] => 4
+            [result_ac] => 3
+        )
+
+    [3] => Array
+        (
+            [result_name] => J
+            [result_grade] => 2
+            [result_course] => 4
+            [result_ac] => 4
+        )
+
+    [4] => Array
+        (
+            [result_name] => 松尾 鯛雄
+            [result_grade] => 2
+            [result_course] => 2
+            [result_ac] => 2
+        )
+
+    [5] => Array
+        (
+            [result_name] => 田沢 慎一郎
+            [result_grade] => 4
+            [result_course] => 2
+            [result_ac] => 5
+        )
+
+    [6] => Array
+        (
+            [result_name] => 極小路 秀麻呂
+            [result_grade] => 1
+            [result_course] => 2
+            [result_ac] => 2
+        )
+
+    [7] => Array
+        (
+            [result_name] => 椿山 清美
+            [result_grade] => 4
+            [result_course] => 1
+            [result_ac] => 1
+        )
+
+    [8] => Array
+        (
+            [result_name] => 赤石 剛次
+            [result_grade] => 3
+            [result_course] => 1
+            [result_ac] => 5
+        )
+
+    [9] => Array
+        (
+            [result_name] => 江戸川
+            [result_grade] => 1
+            [result_course] => 1
+            [result_ac] => 1
+        )
+
+    [10] => Array
+        (
+            [result_name] => 丸山
+            [result_grade] => 2
+            [result_course] => 4
+            [result_ac] => 3
+        )
+
+    [11] => Array
+        (
+            [result_name] => 鬼横綱
+            [result_grade] => 1
+            [result_course] => 1
+            [result_ac] => 3
+        )
+
+    [12] => Array
+        (
+            [result_name] => 大豪院 邪鬼
+            [result_grade] => 1
+            [result_course] => 1
+            [result_ac] => 5
+        )
+
+    [13] => Array
+        (
+            [result_name] => 影慶
+            [result_grade] => 1
+            [result_course] => 2
+            [result_ac] => 2
+        )
+
+    [14] => Array
+        (
+            [result_name] => 羅刹
+            [result_grade] => 4
+            [result_course] => 4
+            [result_ac] => 3
+        )
+
+    [15] => Array
+        (
+            [result_name] => 卍丸
+            [result_grade] => 2
+            [result_course] => 4
+            [result_ac] => 3
+        )
+
+    [16] => Array
+        (
+            [result_name] => センクウ
+            [result_grade] => 4
+            [result_course] => 1
+            [result_ac] => 5
+        )
+
+)
+
+[2021/04/05 11:19:22.7189 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 40 ) ] Array
+(
+    [0] => Array
+        (
+            [result_name] => 剣 桃太郎
+            [result_grade] => 1
+            [result_course] => 4
+            [result_ac] => 5
+        )
+
+    [1] => Array
+        (
+            [result_name] => 富樫 源次
+            [result_grade] => 2
+            [result_course] => 3
+            [result_ac] => 2
+        )
+
+    [2] => Array
+        (
+            [result_name] => 虎丸 龍次
+            [result_grade] => 4
+            [result_course] => 4
+            [result_ac] => 3
+        )
+
+    [3] => Array
+        (
+            [result_name] => J
+            [result_grade] => 2
+            [result_course] => 4
+            [result_ac] => 4
+        )
+
+    [4] => Array
+        (
+            [result_name] => 松尾 鯛雄
+            [result_grade] => 2
+            [result_course] => 2
+            [result_ac] => 2
+        )
+
+    [5] => Array
+        (
+            [result_name] => 田沢 慎一郎
+            [result_grade] => 4
+            [result_course] => 2
+            [result_ac] => 5
+        )
+
+    [6] => Array
+        (
+            [result_name] => 極小路 秀麻呂
+            [result_grade] => 1
+            [result_course] => 2
+            [result_ac] => 2
+        )
+
+    [7] => Array
+        (
+            [result_name] => 椿山 清美
+            [result_grade] => 4
+            [result_course] => 1
+            [result_ac] => 1
+        )
+
+    [8] => Array
+        (
+            [result_name] => 赤石 剛次
+            [result_grade] => 3
+            [result_course] => 1
+            [result_ac] => 5
+        )
+
+    [9] => Array
+        (
+            [result_name] => 江戸川
+            [result_grade] => 1
+            [result_course] => 1
+            [result_ac] => 1
+        )
+
+    [10] => Array
+        (
+            [result_name] => 丸山
+            [result_grade] => 2
+            [result_course] => 4
+            [result_ac] => 3
+        )
+
+    [11] => Array
+        (
+            [result_name] => 鬼横綱
+            [result_grade] => 1
+            [result_course] => 1
+            [result_ac] => 3
+        )
+
+    [12] => Array
+        (
+            [result_name] => 大豪院 邪鬼
+            [result_grade] => 1
+            [result_course] => 1
+            [result_ac] => 5
+        )
+
+    [13] => Array
+        (
+            [result_name] => 影慶
+            [result_grade] => 1
+            [result_course] => 2
+            [result_ac] => 2
+        )
+
+    [14] => Array
+        (
+            [result_name] => 羅刹
+            [result_grade] => 4
+            [result_course] => 4
+            [result_ac] => 3
+        )
+
+    [15] => Array
+        (
+            [result_name] => 卍丸
+            [result_grade] => 2
+            [result_course] => 4
+            [result_ac] => 3
+        )
+
+    [16] => Array
+        (
+            [result_name] => センクウ
+            [result_grade] => 4
+            [result_course] => 1
+            [result_ac] => 5
+        )
+
+)
+
+[2021/04/05 11:25:24.1749 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 40 ) ] Array
+(
+    [0] => Array
+        (
+            [result_name] => 剣 桃太郎
+            [result_grade] => 1
+            [result_course] => 4
+            [result_ac] => 5
+        )
+
+    [1] => Array
+        (
+            [result_name] => 富樫 源次
+            [result_grade] => 2
+            [result_course] => 3
+            [result_ac] => 2
+        )
+
+    [2] => Array
+        (
+            [result_name] => 虎丸 龍次
+            [result_grade] => 4
+            [result_course] => 4
+            [result_ac] => 3
+        )
+
+    [3] => Array
+        (
+            [result_name] => J
+            [result_grade] => 2
+            [result_course] => 4
+            [result_ac] => 4
+        )
+
+    [4] => Array
+        (
+            [result_name] => 松尾 鯛雄
+            [result_grade] => 2
+            [result_course] => 2
+            [result_ac] => 2
+        )
+
+    [5] => Array
+        (
+            [result_name] => 田沢 慎一郎
+            [result_grade] => 4
+            [result_course] => 2
+            [result_ac] => 5
+        )
+
+    [6] => Array
+        (
+            [result_name] => 極小路 秀麻呂
+            [result_grade] => 1
+            [result_course] => 2
+            [result_ac] => 2
+        )
+
+    [7] => Array
+        (
+            [result_name] => 椿山 清美
+            [result_grade] => 4
+            [result_course] => 1
+            [result_ac] => 1
+        )
+
+    [8] => Array
+        (
+            [result_name] => 赤石 剛次
+            [result_grade] => 3
+            [result_course] => 1
+            [result_ac] => 5
+        )
+
+    [9] => Array
+        (
+            [result_name] => 江戸川
+            [result_grade] => 1
+            [result_course] => 1
+            [result_ac] => 1
+        )
+
+    [10] => Array
+        (
+            [result_name] => 丸山
+            [result_grade] => 2
+            [result_course] => 4
+            [result_ac] => 3
+        )
+
+    [11] => Array
+        (
+            [result_name] => 鬼横綱
+            [result_grade] => 1
+            [result_course] => 1
+            [result_ac] => 3
+        )
+
+    [12] => Array
+        (
+            [result_name] => 大豪院 邪鬼
+            [result_grade] => 1
+            [result_course] => 1
+            [result_ac] => 5
+        )
+
+    [13] => Array
+        (
+            [result_name] => 影慶
+            [result_grade] => 1
+            [result_course] => 2
+            [result_ac] => 2
+        )
+
+    [14] => Array
+        (
+            [result_name] => 羅刹
+            [result_grade] => 4
+            [result_course] => 4
+            [result_ac] => 3
+        )
+
+    [15] => Array
+        (
+            [result_name] => 卍丸
+            [result_grade] => 2
+            [result_course] => 4
+            [result_ac] => 3
+        )
+
+    [16] => Array
+        (
+            [result_name] => センクウ
+            [result_grade] => 4
+            [result_course] => 1
+            [result_ac] => 5
+        )
+
+)
+
+[2021/04/05 16:57:16.18 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 39 ) ] 1
+[2021/04/05 16:57:18.762 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 39 ) ] 1
+[2021/04/05 16:58:19.621 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 39 ) ] Array
+[2021/04/05 16:58:20.624 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 39 ) ] Array
+[2021/04/05 16:59:31.2476 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/05 16:59:32.497 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/05 17:04:41.2941 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/05 17:04:41.2962 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 39 ) ] Array
+(
+    [0] => Array
+        (
+            [result_ac] => 1
+            [foot] => 2
+            [softball] => 1
+            [softtennis] => 
+            [bad] => 
+            [bas] => 
+            [val] => 
+            [tab] => 2
+            [run] => 1
+        )
+
+    [1] => Array
+        (
+            [result_ac] => 2
+            [foot] => 3
+            [softball] => 2
+            [softtennis] => 2
+            [bad] => 2
+            [bas] => 1
+            [val] => 1
+            [tab] => 1
+            [run] => 
+        )
+
+    [2] => Array
+        (
+            [result_ac] => 3
+            [foot] => 1
+            [softball] => 1
+            [softtennis] => 1
+            [bad] => 3
+            [bas] => 2
+            [val] => 4
+            [tab] => 2
+            [run] => 1
+        )
+
+    [3] => Array
+        (
+            [result_ac] => 4
+            [foot] => 1
+            [softball] => 
+            [softtennis] => 1
+            [bad] => 
+            [bas] => 
+            [val] => 
+            [tab] => 
+            [run] => 1
+        )
+
+    [4] => Array
+        (
+            [result_ac] => 5
+            [foot] => 1
+            [softball] => 4
+            [softtennis] => 4
+            [bad] => 2
+            [bas] => 
+            [val] => 2
+            [tab] => 
+            [run] => 2
+        )
+
+)
+
+[2021/04/05 17:04:42.640 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/05 17:04:42.649 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 39 ) ] Array
+(
+    [0] => Array
+        (
+            [result_ac] => 1
+            [foot] => 2
+            [softball] => 1
+            [softtennis] => 
+            [bad] => 
+            [bas] => 
+            [val] => 
+            [tab] => 2
+            [run] => 1
+        )
+
+    [1] => Array
+        (
+            [result_ac] => 2
+            [foot] => 3
+            [softball] => 2
+            [softtennis] => 2
+            [bad] => 2
+            [bas] => 1
+            [val] => 1
+            [tab] => 1
+            [run] => 
+        )
+
+    [2] => Array
+        (
+            [result_ac] => 3
+            [foot] => 1
+            [softball] => 1
+            [softtennis] => 1
+            [bad] => 3
+            [bas] => 2
+            [val] => 4
+            [tab] => 2
+            [run] => 1
+        )
+
+    [3] => Array
+        (
+            [result_ac] => 4
+            [foot] => 1
+            [softball] => 
+            [softtennis] => 1
+            [bad] => 
+            [bas] => 
+            [val] => 
+            [tab] => 
+            [run] => 1
+        )
+
+    [4] => Array
+        (
+            [result_ac] => 5
+            [foot] => 1
+            [softball] => 4
+            [softtennis] => 4
+            [bad] => 2
+            [bas] => 
+            [val] => 2
+            [tab] => 
+            [run] => 2
+        )
+
+)
+
+[2021/04/05 17:04:50.8685 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/05 17:04:50.8699 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 39 ) ] Array
+(
+    [0] => Array
+        (
+            [result_ac] => 1
+            [foot] => 2
+            [softball] => 1
+            [softtennis] => 
+            [bad] => 
+            [bas] => 
+            [val] => 
+            [tab] => 2
+            [run] => 1
+        )
+
+    [1] => Array
+        (
+            [result_ac] => 2
+            [foot] => 3
+            [softball] => 2
+            [softtennis] => 2
+            [bad] => 2
+            [bas] => 1
+            [val] => 1
+            [tab] => 1
+            [run] => 
+        )
+
+    [2] => Array
+        (
+            [result_ac] => 3
+            [foot] => 1
+            [softball] => 1
+            [softtennis] => 1
+            [bad] => 3
+            [bas] => 2
+            [val] => 4
+            [tab] => 2
+            [run] => 1
+        )
+
+    [3] => Array
+        (
+            [result_ac] => 4
+            [foot] => 1
+            [softball] => 
+            [softtennis] => 1
+            [bad] => 
+            [bas] => 
+            [val] => 
+            [tab] => 
+            [run] => 1
+        )
+
+    [4] => Array
+        (
+            [result_ac] => 5
+            [foot] => 1
+            [softball] => 4
+            [softtennis] => 4
+            [bad] => 2
+            [bas] => 
+            [val] => 2
+            [tab] => 
+            [run] => 2
+        )
+
+)
+
+[2021/04/05 17:07:05.3270 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/05 17:07:05.3285 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 39 ) ] 1
+[2021/04/05 17:22:16.1222 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/05 17:22:16.1246 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 41 ) ] 1
+[2021/04/05 17:22:58.7749 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/05 17:22:58.7764 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 41 ) ] [{"result_ac":"1","foot":"2","softball":"1","softtennis":null,"bad":null,"bas":null,"val":null,"tab":"2","run":"1"},{"result_ac":"2","foot":"3","softball":"2","softtennis":"2","bad":"2","bas":"1","val":"1","tab":"1","run":null},{"result_ac":"3","foot":"1","softball":"1","softtennis":"1","bad":"3","bas":"2","val":"4","tab":"2","run":"1"},{"result_ac":"4","foot":"1","softball":null,"softtennis":"1","bad":null,"bas":null,"val":null,"tab":null,"run":"1"},{"result_ac":"5","foot":"1","softball":"4","softtennis":"4","bad":"2","bas":null,"val":"2","tab":null,"run":"2"}]
+[2021/04/05 17:50:56.7301 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/05 17:50:56.7326 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 41 ) ] [{"result_ac":"1","foot":"2","softball":"1","softtennis":null,"bad":null,"bas":null,"val":null,"tab":"2","run":"1"},{"result_ac":"2","foot":"3","softball":"2","softtennis":"2","bad":"2","bas":"1","val":"1","tab":"1","run":null},{"result_ac":"3","foot":"1","softball":"1","softtennis":"1","bad":"3","bas":"2","val":"4","tab":"2","run":"1"},{"result_ac":"4","foot":"1","softball":null,"softtennis":"1","bad":null,"bas":null,"val":null,"tab":null,"run":"1"},{"result_ac":"5","foot":"1","softball":"4","softtennis":"4","bad":"2","bas":null,"val":"2","tab":null,"run":"2"}]
+[2021/04/05 17:51:28.9155 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/05 17:51:28.9167 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 41 ) ] [{"result_ac":"1","foot":"2","softball":"1","softtennis":null,"bad":null,"bas":null,"val":null,"tab":"2","run":"1"},{"result_ac":"2","foot":"3","softball":"2","softtennis":"2","bad":"2","bas":"1","val":"1","tab":"1","run":null},{"result_ac":"3","foot":"1","softball":"1","softtennis":"1","bad":"3","bas":"2","val":"4","tab":"2","run":"1"},{"result_ac":"4","foot":"1","softball":null,"softtennis":"1","bad":null,"bas":null,"val":null,"tab":null,"run":"1"},{"result_ac":"5","foot":"1","softball":"4","softtennis":"4","bad":"2","bas":null,"val":"2","tab":null,"run":"2"}]
+[2021/04/05 17:51:29.9502 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/05 17:51:29.9513 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 41 ) ] [{"result_ac":"1","foot":"2","softball":"1","softtennis":null,"bad":null,"bas":null,"val":null,"tab":"2","run":"1"},{"result_ac":"2","foot":"3","softball":"2","softtennis":"2","bad":"2","bas":"1","val":"1","tab":"1","run":null},{"result_ac":"3","foot":"1","softball":"1","softtennis":"1","bad":"3","bas":"2","val":"4","tab":"2","run":"1"},{"result_ac":"4","foot":"1","softball":null,"softtennis":"1","bad":null,"bas":null,"val":null,"tab":null,"run":"1"},{"result_ac":"5","foot":"1","softball":"4","softtennis":"4","bad":"2","bas":null,"val":"2","tab":null,"run":"2"}]
+[2021/04/05 17:51:36.2030 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/05 17:51:36.2042 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 41 ) ] [{"result_ac":"1","foot":"2","softball":"1","softtennis":null,"bad":null,"bas":null,"val":null,"tab":"2","run":"1"},{"result_ac":"2","foot":"3","softball":"2","softtennis":"2","bad":"2","bas":"1","val":"1","tab":"1","run":null},{"result_ac":"3","foot":"1","softball":"1","softtennis":"1","bad":"3","bas":"2","val":"4","tab":"2","run":"1"},{"result_ac":"4","foot":"1","softball":null,"softtennis":"1","bad":null,"bas":null,"val":null,"tab":null,"run":"1"},{"result_ac":"5","foot":"1","softball":"4","softtennis":"4","bad":"2","bas":null,"val":"2","tab":null,"run":"2"}]
+[2021/04/05 17:51:43.5395 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/05 17:51:43.5406 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 41 ) ] [{"result_ac":"1","foot":"2","softball":"1","softtennis":null,"bad":null,"bas":null,"val":null,"tab":"2","run":"1"},{"result_ac":"2","foot":"3","softball":"2","softtennis":"2","bad":"2","bas":"1","val":"1","tab":"1","run":null},{"result_ac":"3","foot":"1","softball":"1","softtennis":"1","bad":"3","bas":"2","val":"4","tab":"2","run":"1"},{"result_ac":"4","foot":"1","softball":null,"softtennis":"1","bad":null,"bas":null,"val":null,"tab":null,"run":"1"},{"result_ac":"5","foot":"1","softball":"4","softtennis":"4","bad":"2","bas":null,"val":"2","tab":null,"run":"2"}]
+[2021/04/05 17:52:04.1021 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/05 17:52:04.1036 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 41 ) ] [{"result_ac":"1","foot":"2","softball":"1","softtennis":null,"bad":null,"bas":null,"val":null,"tab":"2","run":"1"},{"result_ac":"2","foot":"3","softball":"2","softtennis":"2","bad":"2","bas":"1","val":"1","tab":"1","run":null},{"result_ac":"3","foot":"1","softball":"1","softtennis":"1","bad":"3","bas":"2","val":"4","tab":"2","run":"1"},{"result_ac":"4","foot":"1","softball":null,"softtennis":"1","bad":null,"bas":null,"val":null,"tab":null,"run":"1"},{"result_ac":"5","foot":"1","softball":"4","softtennis":"4","bad":"2","bas":null,"val":"2","tab":null,"run":"2"}]
+[2021/04/05 17:52:21.1468 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/05 17:52:21.1480 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 41 ) ] [{"result_ac":"1","foot":"2","softball":"1","softtennis":null,"bad":null,"bas":null,"val":null,"tab":"2","run":"1"},{"result_ac":"2","foot":"3","softball":"2","softtennis":"2","bad":"2","bas":"1","val":"1","tab":"1","run":null},{"result_ac":"3","foot":"1","softball":"1","softtennis":"1","bad":"3","bas":"2","val":"4","tab":"2","run":"1"},{"result_ac":"4","foot":"1","softball":null,"softtennis":"1","bad":null,"bas":null,"val":null,"tab":null,"run":"1"},{"result_ac":"5","foot":"1","softball":"4","softtennis":"4","bad":"2","bas":null,"val":"2","tab":null,"run":"2"}]
+[2021/04/05 17:54:18.2647 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/05 17:54:18.2659 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 41 ) ] [{"result_ac":"1","foot":"2","softball":"1","softtennis":null,"bad":null,"bas":null,"val":null,"tab":"2","run":"1"},{"result_ac":"2","foot":"3","softball":"2","softtennis":"2","bad":"2","bas":"1","val":"1","tab":"1","run":null},{"result_ac":"3","foot":"1","softball":"1","softtennis":"1","bad":"3","bas":"2","val":"4","tab":"2","run":"1"},{"result_ac":"4","foot":"1","softball":null,"softtennis":"1","bad":null,"bas":null,"val":null,"tab":null,"run":"1"},{"result_ac":"5","foot":"1","softball":"4","softtennis":"4","bad":"2","bas":null,"val":"2","tab":null,"run":"2"}]
+[2021/04/05 17:54:46.948 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/05 17:54:46.967 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 41 ) ] [{"result_ac":"1","foot":"2","softball":"1","softtennis":null,"bad":null,"bas":null,"val":null,"tab":"2","run":"1"},{"result_ac":"2","foot":"3","softball":"2","softtennis":"2","bad":"2","bas":"1","val":"1","tab":"1","run":null},{"result_ac":"3","foot":"1","softball":"1","softtennis":"1","bad":"3","bas":"2","val":"4","tab":"2","run":"1"},{"result_ac":"4","foot":"1","softball":null,"softtennis":"1","bad":null,"bas":null,"val":null,"tab":null,"run":"1"},{"result_ac":"5","foot":"1","softball":"4","softtennis":"4","bad":"2","bas":null,"val":"2","tab":null,"run":"2"}]
+[2021/04/05 18:04:47.7578 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/05 18:04:47.7592 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 41 ) ] [{"result_ac":"1","foot":"2","softball":"1","softtennis":null,"bad":null,"bas":null,"val":null,"tab":"2","run":"1"},{"result_ac":"2","foot":"3","softball":"2","softtennis":"2","bad":"2","bas":"1","val":"1","tab":"1","run":null},{"result_ac":"3","foot":"1","softball":"1","softtennis":"1","bad":"3","bas":"2","val":"4","tab":"2","run":"1"},{"result_ac":"4","foot":"1","softball":null,"softtennis":"1","bad":null,"bas":null,"val":null,"tab":null,"run":"1"},{"result_ac":"5","foot":"1","softball":"4","softtennis":"4","bad":"2","bas":null,"val":"2","tab":null,"run":"2"}]
+[2021/04/05 18:04:54.2442 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/05 18:04:54.2461 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 41 ) ] [{"result_ac":"1","foot":"2","softball":"1","softtennis":null,"bad":null,"bas":null,"val":null,"tab":"2","run":"1"},{"result_ac":"2","foot":"3","softball":"2","softtennis":"2","bad":"2","bas":"1","val":"1","tab":"1","run":null},{"result_ac":"3","foot":"1","softball":"1","softtennis":"1","bad":"3","bas":"2","val":"4","tab":"2","run":"1"},{"result_ac":"4","foot":"1","softball":null,"softtennis":"1","bad":null,"bas":null,"val":null,"tab":null,"run":"1"},{"result_ac":"5","foot":"1","softball":"4","softtennis":"4","bad":"2","bas":null,"val":"2","tab":null,"run":"2"}]
+[2021/04/05 18:25:36.2530 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/05 18:25:36.2553 / ::1 ( C:\xampp\htdocs\questionnaire\act\chart.php / 41 ) ] [{"result_ac":"1","foot":"2","softball":"1","softtennis":null,"bad":null,"bas":null,"val":null,"tab":"2","run":"1"},{"result_ac":"2","foot":"3","softball":"2","softtennis":"2","bad":"2","bas":"1","val":"1","tab":"1","run":null},{"result_ac":"3","foot":"1","softball":"1","softtennis":"1","bad":"3","bas":"2","val":"4","tab":"2","run":"1"},{"result_ac":"4","foot":"1","softball":null,"softtennis":"1","bad":null,"bas":null,"val":null,"tab":null,"run":"1"},{"result_ac":"5","foot":"1","softball":"4","softtennis":"4","bad":"2","bas":null,"val":"2","tab":null,"run":"2"}]
+[2021/04/05 18:57:15.7588 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
+[2021/04/05 19:14:21.7568 / ::1 ( C:\xampp\htdocs\questionnaire\model\graph_model.php / 391 ) ] Array
