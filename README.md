@@ -10,6 +10,7 @@ XAMPPのローカルの環境でのみ運用しました。
 
 (2022/02/18　追記)
 実際にデプロイしたものはこちらのリンクになります。
+今日から３か月間公開いたします。
 
 http://tomstar.php.xdomain.jp/index.php?action=menu
 
